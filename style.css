@@ -17,10 +17,23 @@ h2{
 h1{
     font-size: 30px;
 }
+.bloco-branco{
+    padding: 50px;
+}
 .bloco-cinza{
     background-color: #151414;
+    color: white;
+    padding: 30px;
 }
-.titulo{
+.bloco-cinza p{
+    margin: 0;
+}
+.bloco-cinza .titulo{
+text-transform: uppercase;
+border: white solid 1px;
+padding: 15px;
+}
+.bloco-branco .titulo{
     text-transform: uppercase;
     font-size: 16px;
     font-weight: 500;
