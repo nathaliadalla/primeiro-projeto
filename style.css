@@ -40,6 +40,11 @@ padding: 15px;
     border-bottom: gray solid 1px;
     padding-bottom: 12px;
 }
+.blocos{
+    width: 400px;
+    height: 400px;
+    display: inline-block;
+}
 .descricao{
     font-size: 12px;
     color: grey;
