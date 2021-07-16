@@ -34,9 +34,12 @@ h1{
 }
 .bloco-cinza p{
     margin: 0;
+    font-size: 12px;
+    text-align: center;
 }
 .bloco-cinza img{
     width: 100%;
+    border-radius: 50%;
 }
 .bloco-cinza .titulo{
 text-transform: uppercase;
