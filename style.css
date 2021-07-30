@@ -69,6 +69,9 @@ margin-bottom: 25px;
     color: grey;
     display: flex;  
 }
+.contato a {
+    color: white;
+}
 .lista-ano{
     list-style:none;
 }
